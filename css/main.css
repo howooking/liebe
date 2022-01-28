@@ -1,0 +1,22 @@
+.top-menu {
+
+}
+.top-menu .inner {
+  width: 1010px;
+  height: 119px;
+  background-color: orange;
+  margin: auto;
+  position: relative;
+}
+.top-menu .main-menu {
+  display: flex;
+  top: 0;
+  font-size: 13px;
+  position: absolute;
+  left: 350px;
+  top: 60px;
+  color: gray;
+}
+.top-menu ul li {
+  margin: 15px;
+}
